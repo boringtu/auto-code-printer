@@ -1,5 +1,14 @@
 # auto-code-printer
 
+## Effect
+![effect](https://tva1.sinaimg.cn/large/0081Kckwgy1gk7w0gc19qg30ae04etyd.gif)
+
+## How to Use
+
+Just copy the `.vue` File: `src/components/CodePrinter.vue` to your project :)
+
+I'll make it imported by `npm install` and `import 'xxx'` in the future, emmmm, maybe~
+
 ## Project setup
 ```
 npm install
