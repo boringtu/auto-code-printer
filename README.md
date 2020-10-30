@@ -13,6 +13,10 @@ I'll make it imported by `npm install` and `import 'xxx'` in the future, emmmm, 
 ```
 npm install
 ```
+__If you don't know how to use vpn or whatever, you may need:__
+```
+npm install --registry=https://registry.npm.taobao.org
+```
 
 ### Compiles and hot-reloads for development
 ```
